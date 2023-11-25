@@ -1,0 +1,37 @@
+ul{
+    list-style: none;
+
+    color: black;
+}
+li{
+    margin-bottom: 50px;
+
+}
+.text-homepage{
+    text-transform: uppercase;
+    margin: 20px 0;
+    color: black;
+}
+.paragraph{
+    width: 400px;
+    color: rgb(111, 111, 111);
+}
+.img-homepage{
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.allbeers{
+    height: 200px;
+    background-image: url('https://www.robinsonsbrewery.com/static/d07a14005d3b6af8e0d2f8db1e8b2763/e6125/our_beers_top_banner.jpg');
+}
+.random{
+    height: 200px;
+    background-image: url('https://ftw.usatoday.com/wp-content/uploads/sites/90/2023/02/USATSI_19627603.jpg?w=1000&h=600&crop=1');
+}
+.new-beer{
+    height: 200px;
+    background-image: url('https://www.masslive.com/resizer/5Ou5BKf4TjvfC-OvtFQopdpVtyk=/800x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GQKLSV2VEZEEFBW2F77VTXRF5U.jpg');
+}
